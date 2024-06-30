@@ -1,4 +1,7 @@
-<img src="https://github.com/Sparta-LYSJ-Study/.github/assets/40863185/82247532-cdd0-4bea-9358-a2ac2293f472" width="500"/>
+<div>
+  <img src="https://github.com/Sparta-LYSJ-Study/.github/assets/40863185/0c42ebc9-3db0-488a-85f4-d41cc2a9673c" width="100"/>
+  <img src="https://github.com/Sparta-LYSJ-Study/.github/assets/40863185/82247532-cdd0-4bea-9358-a2ac2293f472" width="500"/>
+</div>
 
 # 리액트 리본이의 모험 - React 스터디 프로젝트
 ## 소개
